@@ -1,1 +1,1 @@
-# No-LAG-HUB-Fixed
+loadstring(game:HttpGet("https://paste.ee/r/OxPXvMeW"))()
